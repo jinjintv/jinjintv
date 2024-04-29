@@ -11,8 +11,8 @@
 <h3 align="left">Tech stack</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572b6?stylefor-the-badge&logo=css3&logoColor=white"/></a>&nbsp
 </div>
 
 <h3 align="left">Tools</h3>
@@ -29,8 +29,8 @@
 
 <h3 align="left">Please feel free to reach out to me!</h3>
 <div align="left">
-  <a href="https://velog.io/@codingsnail"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@codingsnail"/></a>&nbsp
-  <a href="mailto:5132jinyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=5132jinyu@gmail.com"/></a>
+  <a href="https://velog.io/@codingsnail"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@codingsnail"/></a>&nbsp
+  <a href="mailto:5132jinyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=5132jinyu@gmail.com"/></a>
   <br>
   <br>
 </div>
