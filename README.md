@@ -12,7 +12,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572b6?stylefor-the-badge&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
 </div>
 
 <h3 align="left">Tools</h3>
