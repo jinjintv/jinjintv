@@ -4,7 +4,6 @@
 <div align="left">
 - 🌱 멋쟁이사자처럼 프론트엔드 스쿨 10기 수료중 <br>
 - ⚙️ Front end developer <br>
-- 💬 디자인을 아는 개발자 <br>
 </div>
 
 
