@@ -1,6 +1,6 @@
 ### jinjin📺
 
-<h3 align="left">Profile🤍</h3>
+<h3 align="left">Profile</h3>
 <div align="left">
 - 🌱 멋쟁이사자처럼 프론트엔드 스쿨 10기 <br>
 - ⚙️ Front end developer <br>
