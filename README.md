@@ -6,7 +6,14 @@
 - ⚙️ Front end developer <br>
 - 🪄 Web Designer<br>
 </div>
-
+---
+<div align="left">
+<h3>portfoilo</h3>
+- https://sheepmate.netlify.app/ , https://github.com/FRONTENDSCHOOL10/hexagon-potatoes 개발 / 디자인 참여
+- https://trinitytaing.netlify.app/ , https://github.com/FRONTENDSCHOOL10/Trinity 개발 참여
+- https://royaljinflush.netlify.app/ 개발 / 디자인
+- https://earlseego.netlify.app/ 퍼블리싱
+</div>
 ---
 <h3 align="left">Tech stack</h3>
 <div align="left">
